@@ -1,9 +1,8 @@
 # power-bi-procurement-analysis
 Procurement analytics dashboard using Power BI
 
-## Business Objective
-The goal of this project is to analyze procurement spending and supplier performance 
-to identify cost drivers, delivery risks, and opportunities for optimization
+## Business Problem:
+Why did procurement costs significantly increase in October?
 
 ## Dataset
 Synthetic procurement dataset including:
@@ -25,11 +24,15 @@ Time period: 2024–2025
 ### Discount Analysis
 ![Dashboard](images/discount_analysis.jpg)
 
-## Key Insights
+## Approach:
+Analyzed procurement data by category and month
+Compared average unit price vs purchase volume
+Focused on top category: raw materials
 
+## Key Insights
 ### 1. October Spend Spike
 The spike in October procurement spend was driven by a significant increase in purchase volume 
-in the raw materials category. This was not caused by price increases, as average unit price 
+in the raw materials category. This was **not** caused by price increases, as average unit price 
 remained stable.
 
 At the same time, the highest discounts were observed during this period, suggesting that 
@@ -49,11 +52,10 @@ This indicates a high operational risk, especially since the supplier operates i
 The combination of high discounts and increased order volume suggests a bulk purchasing strategy, 
 possibly influenced by supplier-related risks and the need to ensure supply continuity.
 
-## Recommendations
-- Monitor high-risk suppliers with long lead times and high delay rates
-- Avoid increasing dependency on unstable suppliers
-- Use bulk purchasing strategically when discounts are favorable
-- Maintain safety stock for critical raw materials to mitigate supply chain risks
+---
+
+## Conclusion:
+The cost increase was operational (higher demand), not market-driven (price increase)
 
 ## Tools Used
 - Power BI (data modeling, DAX, dashboard)

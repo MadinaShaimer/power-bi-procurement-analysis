@@ -23,7 +23,7 @@ Time period: 2024–2025
 ![Supplier Performance](images/Supplier_Performance.jpg)
 
 ### Discount Analysis
-discount analysis.jpg
+![Dashboard](discount_analysis.jpg)
 
 ## Key Insights
 

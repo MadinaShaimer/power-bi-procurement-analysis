@@ -2,9 +2,9 @@
 Procurement analytics dashboard using Power BI
 
 ## Business Questions
-Why did procurement spend significantly increase in October?
-Which suppliers cause the most delivery delays in the top category (raw materials)?
-Were discounts applied when purchase volumes increased?
+- Why did procurement spend significantly increase in October?
+- Which suppliers cause the most delivery delays in the top category (raw materials)?
+- Were discounts applied when purchase volumes increased?
 
 ## Dataset
 Synthetic procurement dataset including:

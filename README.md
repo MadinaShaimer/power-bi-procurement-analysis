@@ -43,9 +43,9 @@ Time period: 2024–2025
 
 ---
 
-### 2. Supplier Risk (Delta Materials Group)
-Delta Materials Group accounts for only 4% of total spend but shows a high delay rate (21%) 
-and long lead time (30 days), with delays reaching up to 20 days.
+### 2. Supplier Risk (Eastline Commodities)
+Eastline Commodities accounts for only 5% of total spend but shows a high delay rate (32%) 
+and long lead time (30 days), with delays reaching up to 18 days.
 This indicates a high operational risk, especially since the supplier operates in the raw materials category.
 
 ---

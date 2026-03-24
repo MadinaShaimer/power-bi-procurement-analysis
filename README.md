@@ -13,7 +13,7 @@ Synthetic procurement dataset including:
 - Products and categories
 - Delivery and lead time metrics
 - Discounts and pricing
-Time period: 2024–2025
+- Time period: 2024–2025
 
 ## Dashboard
 
@@ -39,20 +39,20 @@ Time period: 2024–2025
 - The increase in October was driven by higher purchase volume, not price
 - Average unit price remained relatively stable
 - Raw materials category contributed the most to the spike
- This indicates operational demand rather than price inflation
+- This indicates operational demand rather than price inflation
 
 ---
 
 ### 2. Supplier Risk (Eastline Commodities)
-Eastline Commodities accounts for only 5% of total spend but shows a high delay rate (32%) 
+- Eastline Commodities accounts for only 5% of total spend but shows a high delay rate (32%) 
 and long lead time (30 days), with delays reaching up to 18 days.
-This indicates a high operational risk, especially since the supplier operates in the raw materials category.
+- This indicates a high operational risk, especially since the supplier operates in the raw materials category.
 
 ---
 
 ### 3. Discounts vs Volume
-In general, discounts increased in October when orders were delayed
-Bulk purchases without delays did not significantly reduce unit price
+- In general, discounts increased in October when orders were delayed
+- Bulk purchases without delays did not significantly reduce unit price
 
 ---
 

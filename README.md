@@ -17,7 +17,7 @@ Time period: 2024–2025
 ## Dashboard
 
 ### Procurement Overview
-![images](images/procurement_overview.jpg)
+![Dashboard](images/procurement overview.jpg)
 
 ### Supplier Performance
 ![Dashboard](images/supplier_performance.jpg)

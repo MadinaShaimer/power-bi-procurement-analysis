@@ -34,7 +34,8 @@ Time period: 2024–2025
 - Investigated relationship between order size and discounts
 
 ## Key Insights
-1. October Spend Spike
+
+### 1. October Spend Spike
 - The increase in October was driven by higher purchase volume, not price
 - Average unit price remained relatively stable
 - Raw materials category contributed the most to the spike

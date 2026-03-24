@@ -25,9 +25,9 @@ Time period: 2024–2025
 ![Dashboard](images/discount_analysis.jpg)
 
 ## Approach:
-Analyzed procurement data by category and month
-Compared average unit price vs purchase volume
-Focused on top category: raw materials
+- Analyzed procurement data by category and month
+- Compared average unit price vs purchase volume
+- Focused on top category: raw materials
 
 ## Key Insights
 ### 1. October Spend Spike

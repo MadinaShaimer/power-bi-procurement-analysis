@@ -1,8 +1,10 @@
 # power-bi-procurement-analysis
 Procurement analytics dashboard using Power BI
 
-## Business Problem:
-Why did procurement costs significantly increase in October?
+## Business Questions
+Why did procurement spend significantly increase in October?
+Which suppliers cause the most delivery delays in the top category (raw materials)?
+Were discounts applied when purchase volumes increased?
 
 ## Dataset
 Synthetic procurement dataset including:
@@ -24,38 +26,34 @@ Time period: 2024–2025
 ### Discount Analysis
 ![Dashboard](images/discount_analysis.jpg)
 
-## Approach:
-- Analyzed procurement data by category and month
-- Compared average unit price vs purchase volume
-- Focused on top category: raw materials
+## Approach
+- Analyzed procurement data by month, category, and supplier
+- Focused on the top category: raw materials
+- Compared purchase volume vs average unit price
+- Evaluated delivery delays by supplier
+- Investigated relationship between order size and discounts
 
 ## Key Insights
-### 1. October Spend Spike
-The spike in October procurement spend was driven by a significant increase in purchase volume 
-in the raw materials category. This was **not** caused by price increases, as average unit price 
-remained stable.
-
-At the same time, the highest discounts were observed during this period, suggesting that 
-the company intentionally increased procurement to take advantage of favorable pricing conditions.
+1. October Spend Spike
+- The increase in October was driven by higher purchase volume, not price
+- Average unit price remained relatively stable
+- Raw materials category contributed the most to the spike
+ This indicates operational demand rather than price inflation
 
 ---
 
 ### 2. Supplier Risk (Delta Materials Group)
 Delta Materials Group accounts for only 4% of total spend but shows a high delay rate (21%) 
 and long lead time (30 days), with delays reaching up to 20 days.
-
 This indicates a high operational risk, especially since the supplier operates in the raw materials category.
 
 ---
 
-### 3. Procurement Strategy Behavior
-The combination of high discounts and increased order volume suggests a bulk purchasing strategy, 
-possibly influenced by supplier-related risks and the need to ensure supply continuity.
+### 3. Discounts vs Volume
+In general, discounts increased in October when orders were delayed
+Bulk purchases without delays did not significantly reduce unit price
 
 ---
-
-## Conclusion:
-The cost increase was operational (higher demand), not market-driven (price increase)
 
 ## Tools Used
 - Power BI (data modeling, DAX, dashboard)
